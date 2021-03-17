@@ -14,4 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:qdzuiai13@gmail.com)
+[qdzuiai13@gmail.com](mailto:qdzuiai13@gmail.com)
