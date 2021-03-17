@@ -1,6 +1,6 @@
- ---
- layout:post
- title:distribute
+---
+ layout: post
+ title: distribute
 ---
  
  
