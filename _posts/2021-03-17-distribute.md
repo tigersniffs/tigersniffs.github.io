@@ -3,6 +3,7 @@
  title: distribute
 ---
  
+原文链接：https://leetcode.com/discuss/general-discussion/1105898/System-Design%3A-Introduction-to-Distributed-Systems-or-Designing-a-highly-available-system 
  
 什么是分布式系统？
    多个实体通过网络形成的一个互相联接的系统。
